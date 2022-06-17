@@ -256,6 +256,7 @@ header h1{
 #bootcamp li{
     display:inline-table;
     margin: 40px;
+    vertical-align: middle;
 }
 
 #bootcamp li p{
@@ -398,6 +399,9 @@ footer {
   padding: 20px 0px;
 }
 
-
+td {
+  white-space: nowrap;
+  padding-right: 100px;
+}
 
 
