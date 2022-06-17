@@ -256,7 +256,7 @@ header h1{
 #bootcamp li{
     display:inline-table;
     margin: 40px;
-    vertical-align: middle;
+    vertical-align: middle !important;
 }
 
 #bootcamp li p{
